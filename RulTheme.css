@@ -4,19 +4,8 @@
 /*
 _________\///________\///__\//////////__\///_____\/////_____\///____\///__
 */
-.account::after {
-    content: "PandaTheme V1";
-    color: #fff;
-    font-size: 11px;
-    font-weight: 700;
-    text-align: center;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    opacity: .3;
-}
-body {
+
+.body {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
