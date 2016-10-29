@@ -1,4 +1,9 @@
-}
+/* "RulTheme V1" by @Rul */
+
+/* Tema by Rul baseado em ClearVision */
+/*
+_________\///________\///__\//////////__\///_____\/////_____\///____\///__
+*/
 .account::after {
     content: "ClearVision v4.0.0";
     color: #fff;
