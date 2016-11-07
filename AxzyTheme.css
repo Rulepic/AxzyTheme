@@ -2,8 +2,8 @@
 /* Baseado em ClearVison/
 */
 :root {
-	--main-color: #2780e6;
-	--hover-color: #1e63b3;
+	--main-color: #D30000;
+	--hover-color: #D30000;
 }
 .account::after {
     content: "AxzyTheme v2";
